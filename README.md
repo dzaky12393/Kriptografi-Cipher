@@ -1,4 +1,4 @@
-							--- KRIPTOGRAFI ---
+						--- KRIPTOGRAFI ---
 
 Program ini merupakan aplikasi GUI untuk melakukan enkripsi dan dekripsi menggunakan berbagai algoritma kriptografi, termasuk Vigenere, Playfair, dan Hill. Berikut adalah langkah-langkah untuk menjalankan program ini:
 
